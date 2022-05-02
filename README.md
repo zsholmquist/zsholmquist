@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zsholmquist
+- 👀 I’m interested in improving my coding skills and learning version control standards.
+- 🌱 I’m currently learning everything.
